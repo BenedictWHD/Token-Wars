@@ -1,0 +1,10 @@
+org\voi\models\kpis\SubCategory.class
+org\voi\models\Token.class
+org\voi\models\config\CategoryConfig.class
+org\voi\models\Player.class
+org\voi\models\config\SubCategoryConfig.class
+org\voi\models\War.class
+org\voi\models\Battle.class
+org\voi\models\kpis\Category.class
+org\voi\App.class
+org\voi\models\config\BattleConfig.class
